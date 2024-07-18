@@ -8,7 +8,7 @@ The official implementation of "Efficient Frequency-Domain Image Deraining with 
 - Ning Gao
 - Xingyu Jiang
 - Xiuhui Zhang
-- Yue Deng
+- Yue Deng *
 
 School of Astronautics, Beihang University, Beijing, China
 
