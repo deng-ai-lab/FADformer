@@ -1,5 +1,5 @@
 # FADformer
-The official implementation of "Efficient Frequency-Domain Image Deraining with Contrastive Regularization" (Submitted to ECCV2024)
+The official implementation of "Efficient Frequency-Domain Image Deraining with Contrastive Regularization" [ECCV2024]
 
 2024/07/17 Update：The code will soon realese in one week.
 
