@@ -1,7 +1,7 @@
 # FADformer
 The official implementation of "Efficient Frequency-Domain Image Deraining with Contrastive Regularization" [ECCV2024]
 
-2024/07/17 Update：The code will soon realese in one week.
+2024/07/17 Update：The code will soon realese.
 
 ## Authors
 
@@ -21,6 +21,10 @@ Most current single image-deraining (SID) methods are based on the Transformer w
 - SID
 - Frequency Learning
 - Contrastive Regularization
+
+## Motivation
+
+![Motivation](figs/motivation.png)
 
 ## Method
 
