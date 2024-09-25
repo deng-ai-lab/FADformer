@@ -61,6 +61,32 @@ Most current single image-deraining (SID) methods are based on the Transformer w
 </tbody>
 </table>
 
+## Visual Results
+
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Rain200L</th>
+    <th>Rain200H</th>
+    <th>DID-Data</th>
+    <th>DDN-Data</th>
+    <th>SPA-Data</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1rObEpOlg3Edikkc07-qRyg?pwd=ktqb">Download (kzj5)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/12c3jj0a0S-6V9HsBBKtlFw?pwd=qty6">Download (j10m)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1waEU-SMkAfzW5QLeD9q1yA?pwd=u3ju">Download (nact)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1HwsAlcMZRuzcSopgICyD5g?pwd=mqsr">Download (hj6r)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1v26LfteVl852d1ESDJjPsw?pwd=q6hx">Download (vfvt)</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+
 ## Supplementary Material
 
 For more visualizations, see the supplementary material.
