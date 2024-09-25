@@ -59,6 +59,7 @@ Most current single image-deraining (SID) methods are based on the Transformer w
     <td> <a href="https://pan.baidu.com/s/1iHbPEjuUMVYt9do7odrtmg?pwd=3s40">Download (vfvt)</a>  </td>
   </tr>
 </tbody>
+</table>
 
 ## Supplementary Material
 
