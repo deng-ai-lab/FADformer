@@ -2,6 +2,7 @@
 The official implementation of "Efficient Frequency-Domain Image Deraining with Contrastive Regularization" [ECCV2024]
 
 2024/09/25 Update：The code is now open, welcome to ask questions in the issue, we will try our best to solve errors and doubts
+
 2024/09/26 Update: Pre-trained weights and visualization images are provided by link.
 
 ## Authors
