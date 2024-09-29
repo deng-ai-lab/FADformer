@@ -7,6 +7,8 @@ The official implementation of "Efficient Frequency-Domain Image Deraining with 
 
 2024/09/26 Update: Pre-trained weights and visualization images are provided by link.
 
+2024/09/29 Update: You can download our paper [here](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05751.pdf)! 
+
 ## Authors
 
 - Ning Gao
