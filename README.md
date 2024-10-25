@@ -1,5 +1,5 @@
 # Efficient Frequency-Domain Image Deraining with Contrastive Regularization (ECCV2024)
-The official implementation of "Efficient Frequency-Domain Image Deraining with Contrastive Regularization" [ECCV2024]
+The official implementation of ECCV2024 paper "Efficient Frequency-Domain Image Deraining with Contrastive Regularization"
 
 [paper link](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05751.pdf)
 
