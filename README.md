@@ -9,6 +9,8 @@ The official implementation of ECCV2024 paper "Efficient Frequency-Domain Image 
 
 2024/09/29 Update: You can download our paper [here](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05751.pdf)! 
 
+2024/11/12 Update: You can now find the official republication of Springer here, including supple materials: https://link.springer.com/chapter/10.1007/978-3-031-72940-9_14
+
 ## Authors
 
 - Ning Gao
