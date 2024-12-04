@@ -11,6 +11,8 @@ The official implementation of ECCV2024 paper "Efficient Frequency-Domain Image 
 
 2024/11/12 Update: You can now find the official publication of Springer here, including supple materials: https://link.springer.com/chapter/10.1007/978-3-031-72940-9_14
 
+2024/12/04 Update: Now you can cite our work through Google Scholar or BibTeX provided in the readme. If you are interested in our work, please actively cite it, we will be grateful.
+
 ## Authors
 
 - Ning Gao
@@ -99,6 +101,23 @@ For more visualizations, see the supplementary material.
 
 ## References
 
-Waiting for the publication of ECCV2024
+Here is the BibTeX citation for the paper:
 
-```
+    @inproceedings{gao2025efficient,
+      title={Efficient Frequency-Domain Image Deraining with Contrastive Regularization},
+      author={Gao, Ning and Jiang, Xingyu and Zhang, Xiuhui and Deng, Yue},
+      booktitle={European Conference on Computer Vision},
+      pages={240--257},
+      year={2025},
+      organization={Springer}
+    }
+
+## Other Acknowledgment
+
+Part of our code is based on the [Dehazeformer](https://github.com/IDKiro/DehazeFormer) and [Restormer](https://github.com/swz30/Restormer).
+Some of the experimental results are based on the results collected by [DRSformer](https://github.com/cschenxiang/DRSformer), which is very comprehensive.
+Thanks for their awesome work.
+
+## Contact
+
+If your submitted issue has not been noticed or there are further questions, please contact gaoning_ai@buaa.edu.cn.
